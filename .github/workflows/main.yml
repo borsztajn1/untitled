@@ -6,6 +6,4 @@ jobs:
   greetuser:
     runs-on: ubuntu-latest
     steps:
-      - run: |
-      echo "Hi"
-      echo "-"  
+      - run: echo "jjjjj"
