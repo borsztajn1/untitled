@@ -3,7 +3,7 @@ env:
     user_name: "Chaminda"
     demo_name: "Variable Demo"
 jobs:
- VariableUsageJob:
+ Variab111leUsageJob:
   runs-on: ubuntu-latest
   steps:
   - name: Using Workflow Variables
