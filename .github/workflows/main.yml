@@ -7,4 +7,4 @@ jobs:
   runs-on: ubuntu-latest
   steps:
   - name: Using Workflow Variables
-    run: echo "Hello, $user_name!"
+    run: echo Hello, $user_name!
